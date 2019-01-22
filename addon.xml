@@ -2,7 +2,7 @@
 <addon id="repository.beatmasterRS" version="1.0.0" name="beatmasterRS BETA repository" provider-name="beatmasterRS">
 	
 	<extension point="xbmc.addon.repository" name="beatmasterRS BETA repository">
-		<info compressed="false">https://raw.githubusercontent.com/FabioCastilho/repository.beatmasterRS/master/addons.xml</info>
+		<info compressed="false">https://raw.githubusercontent.com/FabioCastilho/repository.beatmasterRS/addons.xml</info>
 		<checksum> </checksum>
 		<datadir zip="true">https://raw.githubusercontent.com/fabiocastilho/repository.BeatmasterRS/master/</datadir>
 	</extension>
